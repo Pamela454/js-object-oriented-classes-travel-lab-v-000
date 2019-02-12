@@ -1,5 +1,5 @@
 class beginningLocation {
-  
+  constructor(horizontal, vertical)
 }
 
 class endingLocation {

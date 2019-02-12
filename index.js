@@ -1,5 +1,8 @@
 class beginningLocation {
-  constructor(horizontal, vertical)
+  constructor(horizontal, vertical) {
+    this.horizontal = horizontal
+    this.vertical = vertical
+  }
 }
 
 class endingLocation {

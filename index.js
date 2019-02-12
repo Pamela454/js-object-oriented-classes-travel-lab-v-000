@@ -2,6 +2,10 @@ class beginningLocation {
   
 }
 
+class endingLocation {
+  
+}
+
 class Driver {
   constructor(name, startDate) {
     this.name = name

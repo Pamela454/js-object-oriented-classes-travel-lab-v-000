@@ -12,7 +12,7 @@ class Driver {
   }
   
   class Route {
-    constructor( horizontal, vertical ) {
+    constructor( beginningLocation, endingLocation ) {
     this.horizontal = horizontal
     this.vertical = vertical
   }

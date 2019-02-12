@@ -24,7 +24,8 @@ class Driver {
     return parseInt( totalYears );
   }
   
-  class Route( beginningLocation, endingLocation ) {
+  class Route {
+    constructor( beginningLocation, endingLocation ) {
     
   }
 }

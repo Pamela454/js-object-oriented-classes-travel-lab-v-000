@@ -1,16 +1,3 @@
-class beginningLocation {
-  constructor(horizontal, vertical) {
-    this.horizontal = horizontal
-    this.vertical = vertical
-  }
-}
-
-class endingLocation {
-  constructor(horizontal, vertical) {
-    this.horizontal = horizontal
-    this.vertical = vertical
-  }
-}
 
 class Driver {
   constructor(name, startDate) {

@@ -6,7 +6,10 @@ class beginningLocation {
 }
 
 class endingLocation {
-  
+  constructor(horizontal, vertical) {
+    this.horizontal = horizontal
+    this.vertical = vertical
+  }
 }
 
 class Driver {
